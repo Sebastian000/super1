@@ -1,40 +1,40 @@
 {
-  "squadName": "Super hero squad",
-  "homeTown": "Metro City",
-  "formed": 2016,
-  "secretBase": "Super tower",
-  "active": true,
+  "squadName": "LOS INCREIBLES",
+  "homeTown": "Bogotá",
+  "formed": 2019,
+  "secretBase": "Colegio El Libertador",
+  "active": Si,
   "members": [
     {
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
+      "name": "Sebastian Herrera",
+      "age": 16,
+      "secretIdentity": "SuperMan",
       "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Visión Laser",
+        "Volar",
+        "Radiación"
       ]
     },
     {
-      "name": "Madame Uppercut",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
+      "name": "Angie Huertas",
+      "age": 16,
+      "secretIdentity": "Flash",
       "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Enanismo",
+        "Maxima velocidad",
+        "Inteligencia"
       ]
     },
     {
-      "name": "Eternal Flame",
-      "age": 1000000,
-      "secretIdentity": "Unknown",
+      "name": "Vanessa Gutierrez",
+      "age": 17,
+      "secretIdentity": "Super Girl",
       "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Inmortalidad",
+        "Fuerza",
+        "Volar",
+        "Teletransportación",
+        "Visio"
       ]
     }
   ]
