@@ -3,7 +3,7 @@
   "homeTown": "Bogotá",
   "formed": 2019,
   "secretBase": "Colegio El Libertador",
-  "active": Si,
+  "active": true,
   "members": [
     {
       "name": "Sebastian Herrera",
